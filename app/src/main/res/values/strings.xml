@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Caclulator</string>
+    <string name="input_number">Input number</string>
+</resources>
